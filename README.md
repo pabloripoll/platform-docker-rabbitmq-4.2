@@ -2,7 +2,7 @@
     <img src="./resources/docs/images/pr-banner-long.png">
 </div>
 
-# INFRASTRUCTURE PLATFORM RABBITMQ
+# INFRASTRUCTURE PLATFORM RABBITMQ 4.2
 
 [![Generic badge](https://img.shields.io/badge/version-1.0-blue.svg)](https://shields.io/)
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](./)
@@ -79,7 +79,7 @@ Repository directories structure overview:
 └── README.md
 ```
 
-Set up platform:
+Platform set-up:
 
 - Copy `.env.example` to `.env` to adjust platforms settings
 - The broker container can start with `BROKER_CAAS_MEM=128M` *(CAAS = Container As A Service)*
