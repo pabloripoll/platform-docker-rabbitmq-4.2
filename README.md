@@ -79,6 +79,11 @@ Repository directories structure overview:
 └── README.md
 ```
 
+Set up platform:
+
+- Copy `.env.example` to `.env` to adjust platforms settings
+- The broker container can start with `BROKER_CAAS_MEM=128M` *(CAAS = Container As A Service)*
+
 ### Estimated consumption
 
 This is the overview of the estimated host machine consumption:
